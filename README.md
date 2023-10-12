@@ -1,1 +1,1 @@
-# AR-Examples
+Simple Frontend for super imposing various kinds of projections over markers 
